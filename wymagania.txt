@@ -1,0 +1,17 @@
+Wymagania
+----------
+
+# wersja podstawowa
+- obsługa wejścia/wyjścia: pobieranie danych od użytkownika, wyświetlanie informacji
+- wykorzystanie zmiennych przechowujących wartości różnych typów
+- zastosowanie instrukcji warunkowej if, włącznie z pełną wersją if-elif-else
+- zastosowanie pętli while
+
+# wersja rozszerzona
+- wymagania z wersji podstawowej
+- wykorzystanie listy/krotki i słownika
+- zastosowanie pętli for
+- zdefiniowanie co najmniej jednej funkcji z parametrami
+- obsługa nieprawidłowych danych wprowadzanych przez użytkownika
+- odczyt z pliku/zapis do pliku
+- wizualizacja danych (tekstowa lub graficzna)
