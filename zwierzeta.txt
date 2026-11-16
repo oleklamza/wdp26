@@ -1,0 +1,5 @@
+kot : cat
+pies : dog
+papuga : parrot
+mysz : mouse
+szczur : rat
